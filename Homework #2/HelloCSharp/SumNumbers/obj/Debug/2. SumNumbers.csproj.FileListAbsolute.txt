@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\SumNumbers\bin\Debug\SumNumbers.exe.config
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\SumNumbers\obj\Debug\SumNumbers.exe
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\SumNumbers\obj\Debug\SumNumbers.pdb
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\SumNumbers\bin\Debug\SumNumbers.exe
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\SumNumbers\bin\Debug\SumNumbers.pdb

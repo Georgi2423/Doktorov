@@ -1,0 +1,5 @@
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\PrintNumbers1to10\bin\Debug\PrintNumbers1to10.exe.config
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\PrintNumbers1to10\bin\Debug\PrintNumbers1to10.exe
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\PrintNumbers1to10\bin\Debug\PrintNumbers1to10.pdb
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\PrintNumbers1to10\obj\Debug\PrintNumbers1to10.exe
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\PrintNumbers1to10\obj\Debug\PrintNumbers1to10.pdb

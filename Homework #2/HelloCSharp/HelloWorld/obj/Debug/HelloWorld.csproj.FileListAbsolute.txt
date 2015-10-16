@@ -1,0 +1,6 @@
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Georgi\Desktop\Soft Intellect 2015 Academy\Doktorov\Homework #2\HelloCSharp\HelloWorld\obj\Debug\HelloWorld.pdb
